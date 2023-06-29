@@ -1,4 +1,4 @@
-// Prompt the user to start the game
+// Prompt the user to start the game !!
 var startGame = prompt("Are you ready to play the game? (yes/no)");
 
 if (startGame.toLowerCase() === "yes") {

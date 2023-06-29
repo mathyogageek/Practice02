@@ -26,3 +26,4 @@ function playCoinFlip() {
   window.onload = playCoinFlip;
   
 
+//third

@@ -15,4 +15,4 @@ window.onload = function() {
     console.log("Hello World translated in " + languageCodeInput + " is: " + translatedHello);
   };
   
-  
+  // second
