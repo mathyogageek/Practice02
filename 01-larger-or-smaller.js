@@ -1,6 +1,6 @@
 // Call the function after the page has finished loading
 // automatically after the page loads
-// Practice02Rie-Maru-Jim-chan-chan
+// Practice02Rie
 
 window.onload = compareIntegers;
 
